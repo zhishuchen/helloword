@@ -13,5 +13,6 @@ public class HelloWord {
         System.out.println("Hello Word!4 hot-fix");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
